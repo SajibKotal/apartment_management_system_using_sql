@@ -1,0 +1,9 @@
+D:\Project\test\test\test\bin\Debug\test.exe.config
+D:\Project\test\test\test\bin\Debug\test.exe
+D:\Project\test\test\test\bin\Debug\test.pdb
+D:\Project\test\test\test\obj\Debug\test.home.resources
+D:\Project\test\test\test\obj\Debug\test.Properties.Resources.resources
+D:\Project\test\test\test\obj\Debug\test.signin.resources
+D:\Project\test\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Project\test\test\test\obj\Debug\test.exe
+D:\Project\test\test\test\obj\Debug\test.pdb

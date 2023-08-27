@@ -1,0 +1,20 @@
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\bin\Debug\KinamNiassoh LTD.exe.config
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\bin\Debug\KinamNiassoh LTD.exe
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\bin\Debug\KinamNiassoh LTD.pdb
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh LTD.csprojResolveAssemblyReference.cache
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Properties.Resources.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh LTD.csproj.GenerateResource.Cache
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh LTD.exe
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh LTD.pdb
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.signin1.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Dashboard.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Signup.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Form1.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Customer.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Security.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Visitor.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Owner.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Manager.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Buyer.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.Renter.resources
+D:\Project\KinamNiassoh LTD\KinamNiassoh LTD\obj\Debug\KinamNiassoh_LTD.BuilderCompany.resources
